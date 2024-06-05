@@ -113,7 +113,7 @@ console.table(oldestInventor);
 // 6. create a list of Boulevards in Paris that contain 'de' anywhere in the name
 // https://en.wikipedia.org/wiki/Category:Boulevards_in_Paris
 
-// this next code should only be commented out if used on the above link!
+// this next code should only be commented *in* if used on the above link!
 
 // // selecting all of the elements that have a link on that wikipedia page
 // const category = document.querySelector('.mw-category');
